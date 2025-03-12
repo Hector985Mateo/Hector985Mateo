@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **coding, Youtube videos, Pokémon, etc!**
 
-- ✉ How to reach me **here on LinkedIn.**
+- ✉ How to reach me **on LinkedIn.**
 
 - ⚡ Fun fact **I love coding projects (websites, mini-games), repairing electronics and archiving software.**
 
