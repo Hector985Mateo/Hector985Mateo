@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Website replications**
 
-- 💬 Ask me about **coding, media, Pokémon, etc!**
+- 💬 Ask me about **coding, Youtube videos, Pokémon, etc!**
 
 - 📫 How to reach me **Hector985mateo@berkeley.edu**
 
