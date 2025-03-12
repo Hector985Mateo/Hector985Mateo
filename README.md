@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hector Mateo</h1>
 
-<div align="center"> <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.postimg.cc/T1VgZ1PG/Whats-App-Image-2025-03-11-at-17-17-51-c1540d52.jpg)"  /> </div>
+<div align="center"> <img height="150" src="https://i.postimg.cc/T1VgZ1PG/Whats-App-Image-2025-03-11-at-17-17-51-c1540d52.jpg"/> </div>
 
 <h3 align="center">A data scientist with a Bachelor of Arts in Data Science from UC Berkeley, passionate about analyzing complex datasets, uncovering insights, and building intelligent systems. Interests include machine learning, AI applications, and software development, with a focus on exploring new technologies. Recent projects include a nearly completed personal website, a Tic-Tac-Toe game, and various data-driven projects involving real-world datasets. Currently developing software engineering skills while actively seeking opportunities in data science, data engineering, and data analysis.</h3>
 
