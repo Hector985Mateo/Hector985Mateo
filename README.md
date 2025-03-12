@@ -10,7 +10,7 @@
 
 - ✉ How to reach me **Hector985mateo@berkeley.edu**
 
-- ⚡ Fun fact **I love repairing electronics. coding projects, mini-games, and archiving software.**
+- ⚡ Fun fact **I love coding projects (websites, mini-games), repairing electronics and archiving software.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
