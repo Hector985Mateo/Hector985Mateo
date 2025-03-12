@@ -4,11 +4,11 @@
 
 <h3 align="center">A data scientist with a Bachelor of Arts in Data Science from UC Berkeley, passionate about analyzing complex datasets, uncovering insights, and building intelligent systems. Interests include machine learning, AI applications, and software development, with a focus on exploring new technologies. Recent projects include a nearly completed personal website, a Tic-Tac-Toe game, and various data-driven projects involving real-world datasets. Currently developing software engineering skills while actively seeking opportunities in data science, data engineering, and data analysis.</h3>
 
-- 🔭 I’m currently working on **Website replications**
+- 🔭 I’m currently working on **getting my website to go live**
 
 - 💬 Ask me about **coding, Youtube videos, Pokémon, etc!**
 
-- 📫 How to reach me **Hector985mateo@berkeley.edu**
+- ✉ How to reach me **Hector985mateo@berkeley.edu**
 
 - ⚡ Fun fact **I love repairing electronics. coding projects, mini-games, and archiving software.**
 
