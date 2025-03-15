@@ -14,8 +14,7 @@
 
 <h3 align="left">Check out my website!:</h3>
 <p align="left">
-
-<a href="https://hector985mateo.github.io/" target="blank"><img align="center" src="https://i.postimg.cc/7LVt9LnN/website-icon-git-HECMATEO.jpg" alt="hector985mateo.github" height="30" width="40" /></a>
+<a href="https://hector985mateo.github.io/" target="_blank"><img align="center" src="https://i.postimg.cc/7LVt9LnN/website-icon-git-HECMATEO.jpg" alt="hector985mateo.github" height="30" width="40" /></a>
 
 <!-- <a href="https://hector985mateo.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hector985mateo.github" height="30" width="40" /></a>
 -->
