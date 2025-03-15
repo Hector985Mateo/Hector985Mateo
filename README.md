@@ -4,13 +4,21 @@
 
 <h3 align="center">A data scientist with a Bachelor of Arts in Data Science from UC Berkeley, passionate about analyzing complex datasets, uncovering insights, and building intelligent systems. Interests include machine learning, AI applications, and software development, with a focus on exploring new technologies. Recent projects include a nearly completed personal website, a Tic-Tac-Toe game, and various data-driven projects involving real-world datasets. Currently developing software engineering skills while actively seeking opportunities in data science, data engineering, and data analysis.</h3>
 
-- 🔭 I’m currently working on **finishing & editing my new website**
+- 🔭 I’m currently working on **adding my projects here on GitHub**
 
 - 💬 Ask me about **coding, Youtube videos, Pokémon, etc!**
 
 - ✉ How to reach me **on LinkedIn.**
 
 - ⚡ Fun fact **I love coding projects (websites, mini-games), repairing electronics and archiving software.**
+
+<h3 align="left">Check out my website!:</h3>
+<p align="left">
+
+<a href="https://hector985mateo.github.io/" target="blank"><img align="center" src="https://i.postimg.cc/hPScsJnX/Hector-s-website-Icon.jpg" alt="hector985mateo.github" height="30" width="40" /></a>
+
+<!-- <a href="https://hector985mateo.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hector985mateo.github" height="30" width="40" /></a>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
